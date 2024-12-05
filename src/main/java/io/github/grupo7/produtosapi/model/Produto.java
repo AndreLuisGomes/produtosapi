@@ -7,7 +7,7 @@ import jakarta.persistence.Id;
 // POJO -> Plain Old Java Object
 
 @Entity
-public class Produto {
+public class  Produto {
 
     @Id
     @Column
